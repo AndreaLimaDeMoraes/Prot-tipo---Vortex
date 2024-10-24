@@ -1,0 +1,11 @@
+D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\bin\Debug\Prototipo - Vortex.exe.config
+D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\bin\Debug\Prototipo - Vortex.exe
+D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\bin\Debug\Prototipo - Vortex.pdb
+D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\obj\Debug\Prototipo - Vortex.csproj.AssemblyReference.cache
+D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\obj\Debug\Prototipo___Vortex.Properties.Resources.resources
+D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\obj\Debug\Prototipo - Vortex.csproj.GenerateResource.cache
+D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\obj\Debug\Prototipo - Vortex.csproj.CoreCompileInputs.cache
+D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\obj\Debug\Prototipo - Vortex.exe
+D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\obj\Debug\Prototipo - Vortex.pdb
+D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\obj\Debug\Prototipo___Vortex.Login.resources
+D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\obj\Debug\Prototipo___Vortex.PagInic.resources
