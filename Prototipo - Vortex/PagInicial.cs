@@ -59,9 +59,13 @@ namespace Prototipo___Vortex
 
         private void btnSimularNovoRequerimento_Click(object sender, EventArgs e)
         {
+            //Esse botão serve para simular um novo requerimento aparecendo para a tela inicial. Será alimentado com as informções do BD.
+
+
+
                 // Cria um novo Panel para o requerimento
                 Panel panelRequerimento = new Panel();
-                panelRequerimento.Size = new Size(322, 159);  // Ajuste o tamanho conforme necessário
+                panelRequerimento.Size = new Size(322, 159);
                 panelRequerimento.BorderStyle = BorderStyle.FixedSingle;
                 panelRequerimento.Padding = new Padding(5);
 
