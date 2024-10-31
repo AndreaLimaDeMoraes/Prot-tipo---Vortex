@@ -21,8 +21,8 @@ namespace Prototipo___Vortex
 
         private void button1_Click(object sender, EventArgs e)
         {
-            PagInic PagInic = new PagInic();
-            PagInic.Show();
+            PagInicial PagInicial = new PagInicial();
+            PagInicial.Show();
             this.Hide();
         }
     }
