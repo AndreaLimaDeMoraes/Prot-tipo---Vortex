@@ -1,16 +1,16 @@
-﻿namespace Prototipo___Vortex
+﻿namespace telaik
 {
-    partial class Login
+    partial class Form1
     {
         /// <summary>
-        /// Variável de designer necessária.
+        ///  Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        /// Limpar os recursos que estão sendo usados.
+        ///  Clean up any resources being used.
         /// </summary>
-        /// <param name="disposing">true se for necessário descartar os recursos gerenciados; caso contrário, false.</param>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,148 +20,350 @@
             base.Dispose(disposing);
         }
 
-        #region Código gerado pelo Windows Form Designer
+        #region Windows Form Designer generated code
 
         /// <summary>
-        /// Método necessário para suporte ao Designer - não modifique 
-        /// o conteúdo deste método com o editor de código.
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
-            this.pnlLogin = new System.Windows.Forms.Panel();
-            this.lblSenha = new System.Windows.Forms.Label();
-            this.txtSenha = new System.Windows.Forms.TextBox();
-            this.lblSecLogin = new System.Windows.Forms.Label();
-            this.btnEntrar = new System.Windows.Forms.Button();
-            this.lnkSenha = new System.Windows.Forms.LinkLabel();
-            this.lblUsuario = new System.Windows.Forms.Label();
-            this.txtUsuario = new System.Windows.Forms.TextBox();
-            this.pnlLogin.SuspendLayout();
-            this.SuspendLayout();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            groupBox1 = new GroupBox();
+            label1 = new Label();
+            button2 = new Button();
+            button1 = new Button();
+            pictureBox1 = new PictureBox();
+            openFileDialog1 = new OpenFileDialog();
+            groupBox2 = new GroupBox();
+            radioButton8 = new RadioButton();
+            radioButton7 = new RadioButton();
+            radioButton6 = new RadioButton();
+            radioButton5 = new RadioButton();
+            radioButton4 = new RadioButton();
+            radioButton3 = new RadioButton();
+            radioButton2 = new RadioButton();
+            radioButton1 = new RadioButton();
+            label2 = new Label();
+            linkLabel4 = new LinkLabel();
+            linkLabel3 = new LinkLabel();
+            linkLabel2 = new LinkLabel();
+            linkLabel1 = new LinkLabel();
+            panel1 = new Panel();
+            pictureBox2 = new PictureBox();
+            panel2 = new Panel();
+            groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            groupBox2.SuspendLayout();
+            panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
+            SuspendLayout();
             // 
-            // pnlLogin
+            // groupBox1
             // 
-            this.pnlLogin.BackColor = System.Drawing.Color.Maroon;
-            this.pnlLogin.Controls.Add(this.lblSenha);
-            this.pnlLogin.Controls.Add(this.txtSenha);
-            this.pnlLogin.Controls.Add(this.lblSecLogin);
-            this.pnlLogin.Controls.Add(this.btnEntrar);
-            this.pnlLogin.Controls.Add(this.lnkSenha);
-            this.pnlLogin.Controls.Add(this.lblUsuario);
-            this.pnlLogin.Controls.Add(this.txtUsuario);
-            this.pnlLogin.Location = new System.Drawing.Point(61, 61);
-            this.pnlLogin.Name = "pnlLogin";
-            this.pnlLogin.Size = new System.Drawing.Size(322, 333);
-            this.pnlLogin.TabIndex = 0;
+            groupBox1.BackColor = SystemColors.Control;
+            groupBox1.BackgroundImageLayout = ImageLayout.None;
+            groupBox1.Controls.Add(label1);
+            groupBox1.Controls.Add(button2);
+            groupBox1.Controls.Add(button1);
+            groupBox1.Controls.Add(pictureBox1);
+            groupBox1.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
+            groupBox1.ImeMode = ImeMode.NoControl;
+            groupBox1.Location = new Point(88, 46);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(774, 276);
+            groupBox1.TabIndex = 0;
+            groupBox1.TabStop = false;
             // 
-            // lblSenha
+            // label1
             // 
-            this.lblSenha.AutoSize = true;
-            this.lblSenha.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSenha.ForeColor = System.Drawing.Color.White;
-            this.lblSenha.Location = new System.Drawing.Point(42, 155);
-            this.lblSenha.Name = "lblSenha";
-            this.lblSenha.Size = new System.Drawing.Size(62, 23);
-            this.lblSenha.TabIndex = 8;
-            this.lblSenha.Text = "Senha";
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 15F, FontStyle.Bold);
+            label1.Location = new Point(344, 0);
+            label1.Name = "label1";
+            label1.Size = new Size(178, 28);
+            label1.TabIndex = 3;
+            label1.Text = "Quadro de Avisos";
+            label1.TextAlign = ContentAlignment.TopCenter;
             // 
-            // txtSenha
+            // button2
             // 
-            this.txtSenha.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtSenha.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtSenha.Location = new System.Drawing.Point(37, 182);
-            this.txtSenha.Name = "txtSenha";
-            this.txtSenha.PasswordChar = '*';
-            this.txtSenha.Size = new System.Drawing.Size(238, 17);
-            this.txtSenha.TabIndex = 7;
+            button2.Location = new Point(458, 181);
+            button2.Name = "button2";
+            button2.Size = new Size(218, 73);
+            button2.TabIndex = 2;
+            button2.Text = "Excluir";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
-            // lblSecLogin
+            // button1
             // 
-            this.lblSecLogin.AutoSize = true;
-            this.lblSecLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSecLogin.ForeColor = System.Drawing.Color.White;
-            this.lblSecLogin.Location = new System.Drawing.Point(61, 25);
-            this.lblSecLogin.Name = "lblSecLogin";
-            this.lblSecLogin.Size = new System.Drawing.Size(203, 29);
-            this.lblSecLogin.TabIndex = 6;
-            this.lblSecLogin.Text = "Secretaria - Login";
+            button1.Location = new Point(458, 52);
+            button1.Name = "button1";
+            button1.Size = new Size(218, 73);
+            button1.TabIndex = 1;
+            button1.Text = "Editar";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
-            // btnEntrar
+            // pictureBox1
             // 
-            this.btnEntrar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.btnEntrar.FlatAppearance.BorderColor = System.Drawing.Color.White;
-            this.btnEntrar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Maroon;
-            this.btnEntrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(172)))), ((int)(((byte)(174)))));
-            this.btnEntrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEntrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEntrar.ForeColor = System.Drawing.Color.White;
-            this.btnEntrar.Location = new System.Drawing.Point(82, 264);
-            this.btnEntrar.Name = "btnEntrar";
-            this.btnEntrar.Size = new System.Drawing.Size(162, 32);
-            this.btnEntrar.TabIndex = 5;
-            this.btnEntrar.Text = "Entrar";
-            this.btnEntrar.UseVisualStyleBackColor = false;
-            this.btnEntrar.Click += new System.EventHandler(this.button1_Click);
+            pictureBox1.BackColor = SystemColors.HotTrack;
+            pictureBox1.BackgroundImageLayout = ImageLayout.Center;
+            pictureBox1.Location = new Point(48, 52);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(283, 202);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 0;
+            pictureBox1.TabStop = false;
             // 
-            // lnkSenha
+            // openFileDialog1
             // 
-            this.lnkSenha.ActiveLinkColor = System.Drawing.Color.White;
-            this.lnkSenha.AutoSize = true;
-            this.lnkSenha.ForeColor = System.Drawing.Color.White;
-            this.lnkSenha.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.lnkSenha.Location = new System.Drawing.Point(167, 202);
-            this.lnkSenha.Name = "lnkSenha";
-            this.lnkSenha.Size = new System.Drawing.Size(108, 13);
-            this.lnkSenha.TabIndex = 4;
-            this.lnkSenha.TabStop = true;
-            this.lnkSenha.Text = "Esqueci minha senha";
+            openFileDialog1.FileName = "openFileDialog1";
             // 
-            // lblUsuario
+            // groupBox2
             // 
-            this.lblUsuario.AutoSize = true;
-            this.lblUsuario.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUsuario.ForeColor = System.Drawing.Color.White;
-            this.lblUsuario.Location = new System.Drawing.Point(42, 96);
-            this.lblUsuario.Name = "lblUsuario";
-            this.lblUsuario.Size = new System.Drawing.Size(75, 23);
-            this.lblUsuario.TabIndex = 2;
-            this.lblUsuario.Text = "Usuário";
+            groupBox2.Controls.Add(radioButton8);
+            groupBox2.Controls.Add(radioButton7);
+            groupBox2.Controls.Add(radioButton6);
+            groupBox2.Controls.Add(radioButton5);
+            groupBox2.Controls.Add(radioButton4);
+            groupBox2.Controls.Add(radioButton3);
+            groupBox2.Controls.Add(radioButton2);
+            groupBox2.Controls.Add(radioButton1);
+            groupBox2.Controls.Add(label2);
+            groupBox2.Controls.Add(linkLabel4);
+            groupBox2.Controls.Add(linkLabel3);
+            groupBox2.Controls.Add(linkLabel2);
+            groupBox2.Controls.Add(linkLabel1);
+            groupBox2.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
+            groupBox2.Location = new Point(67, 402);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Size = new Size(824, 252);
+            groupBox2.TabIndex = 1;
+            groupBox2.TabStop = false;
             // 
-            // txtUsuario
+            // radioButton8
             // 
-            this.txtUsuario.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtUsuario.Location = new System.Drawing.Point(37, 123);
-            this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(238, 17);
-            this.txtUsuario.TabIndex = 0;
+            radioButton8.AutoSize = true;
+            radioButton8.Location = new Point(479, 200);
+            radioButton8.Name = "radioButton8";
+            radioButton8.Size = new Size(114, 25);
+            radioButton8.TabIndex = 12;
+            radioButton8.TabStop = true;
+            radioButton8.Text = "Desativado";
+            radioButton8.UseVisualStyleBackColor = true;
             // 
-            // Login
+            // radioButton7
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(251)))), ((int)(((byte)(251)))), ((int)(((byte)(251)))));
-            this.ClientSize = new System.Drawing.Size(450, 450);
-            this.Controls.Add(this.pnlLogin);
-            this.Name = "Login";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Portal Secretaria - Login";
-            this.pnlLogin.ResumeLayout(false);
-            this.pnlLogin.PerformLayout();
-            this.ResumeLayout(false);
-
+            radioButton7.AutoSize = true;
+            radioButton7.Location = new Point(264, 202);
+            radioButton7.Name = "radioButton7";
+            radioButton7.Size = new Size(69, 25);
+            radioButton7.TabIndex = 11;
+            radioButton7.TabStop = true;
+            radioButton7.Text = "Ativo";
+            radioButton7.UseVisualStyleBackColor = true;
+            // 
+            // radioButton6
+            // 
+            radioButton6.AutoSize = true;
+            radioButton6.Location = new Point(479, 156);
+            radioButton6.Name = "radioButton6";
+            radioButton6.Size = new Size(114, 25);
+            radioButton6.TabIndex = 10;
+            radioButton6.TabStop = true;
+            radioButton6.Text = "Desativado";
+            radioButton6.UseVisualStyleBackColor = true;
+            // 
+            // radioButton5
+            // 
+            radioButton5.AutoSize = true;
+            radioButton5.Location = new Point(264, 156);
+            radioButton5.Name = "radioButton5";
+            radioButton5.Size = new Size(69, 25);
+            radioButton5.TabIndex = 9;
+            radioButton5.TabStop = true;
+            radioButton5.Text = "Ativo";
+            radioButton5.UseVisualStyleBackColor = true;
+            // 
+            // radioButton4
+            // 
+            radioButton4.AutoSize = true;
+            radioButton4.Location = new Point(479, 104);
+            radioButton4.Name = "radioButton4";
+            radioButton4.Size = new Size(114, 25);
+            radioButton4.TabIndex = 8;
+            radioButton4.TabStop = true;
+            radioButton4.Text = "Desativado";
+            radioButton4.UseVisualStyleBackColor = true;
+            // 
+            // radioButton3
+            // 
+            radioButton3.AutoSize = true;
+            radioButton3.Location = new Point(264, 104);
+            radioButton3.Name = "radioButton3";
+            radioButton3.Size = new Size(69, 25);
+            radioButton3.TabIndex = 7;
+            radioButton3.TabStop = true;
+            radioButton3.Text = "Ativo";
+            radioButton3.UseVisualStyleBackColor = true;
+            // 
+            // radioButton2
+            // 
+            radioButton2.AutoSize = true;
+            radioButton2.Location = new Point(479, 51);
+            radioButton2.Name = "radioButton2";
+            radioButton2.Size = new Size(114, 25);
+            radioButton2.TabIndex = 6;
+            radioButton2.TabStop = true;
+            radioButton2.Text = "Desativado";
+            radioButton2.UseVisualStyleBackColor = true;
+            // 
+            // radioButton1
+            // 
+            radioButton1.AutoSize = true;
+            radioButton1.Location = new Point(264, 51);
+            radioButton1.Name = "radioButton1";
+            radioButton1.Size = new Size(69, 25);
+            radioButton1.TabIndex = 5;
+            radioButton1.TabStop = true;
+            radioButton1.Text = "Ativo";
+            radioButton1.UseVisualStyleBackColor = true;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 15F, FontStyle.Bold);
+            label2.ImageAlign = ContentAlignment.TopCenter;
+            label2.Location = new Point(294, 0);
+            label2.Name = "label2";
+            label2.Size = new Size(239, 28);
+            label2.TabIndex = 4;
+            label2.Text = "Gerenciamento de Links";
+            // 
+            // linkLabel4
+            // 
+            linkLabel4.AutoSize = true;
+            linkLabel4.Location = new Point(69, 204);
+            linkLabel4.Name = "linkLabel4";
+            linkLabel4.Size = new Size(58, 21);
+            linkLabel4.TabIndex = 3;
+            linkLabel4.TabStop = true;
+            linkLabel4.Text = "Form4";
+            // 
+            // linkLabel3
+            // 
+            linkLabel3.AutoSize = true;
+            linkLabel3.Location = new Point(69, 156);
+            linkLabel3.Name = "linkLabel3";
+            linkLabel3.Size = new Size(58, 21);
+            linkLabel3.TabIndex = 2;
+            linkLabel3.TabStop = true;
+            linkLabel3.Text = "Form3";
+            // 
+            // linkLabel2
+            // 
+            linkLabel2.AutoSize = true;
+            linkLabel2.Location = new Point(69, 106);
+            linkLabel2.Name = "linkLabel2";
+            linkLabel2.Size = new Size(58, 21);
+            linkLabel2.TabIndex = 1;
+            linkLabel2.TabStop = true;
+            linkLabel2.Text = "Form2";
+            // 
+            // linkLabel1
+            // 
+            linkLabel1.AutoSize = true;
+            linkLabel1.Location = new Point(69, 55);
+            linkLabel1.Name = "linkLabel1";
+            linkLabel1.Size = new Size(62, 21);
+            linkLabel1.TabIndex = 0;
+            linkLabel1.TabStop = true;
+            linkLabel1.Text = "Form1 ";
+            // 
+            // panel1
+            // 
+            panel1.BackColor = Color.DarkRed;
+            panel1.BackgroundImageLayout = ImageLayout.None;
+            panel1.Controls.Add(pictureBox2);
+            panel1.Dock = DockStyle.Top;
+            panel1.ForeColor = SystemColors.ControlText;
+            panel1.Location = new Point(0, 0);
+            panel1.MaximumSize = new Size(0, 80);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(1328, 40);
+            panel1.TabIndex = 2;
+            panel1.Paint += panel1_Paint;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
+            pictureBox2.Location = new Point(0, 0);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(104, 50);
+            pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox2.TabIndex = 0;
+            pictureBox2.TabStop = false;
+            // 
+            // panel2
+            // 
+            panel2.BackColor = Color.DarkRed;
+            panel2.Dock = DockStyle.Bottom;
+            panel2.Location = new Point(0, 719);
+            panel2.MaximumSize = new Size(0, 30);
+            panel2.Name = "panel2";
+            panel2.Size = new Size(1328, 30);
+            panel2.TabIndex = 3;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(1328, 749);
+            Controls.Add(panel2);
+            Controls.Add(groupBox1);
+            Controls.Add(panel1);
+            Controls.Add(groupBox2);
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            Name = "Form1";
+            Text = "FATEC Guarulhos ";
+            WindowState = FormWindowState.Maximized;
+            groupBox1.ResumeLayout(false);
+            groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            groupBox2.ResumeLayout(false);
+            groupBox2.PerformLayout();
+            panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
+            ResumeLayout(false);
         }
 
         #endregion
 
-        private System.Windows.Forms.Panel pnlLogin;
-        private System.Windows.Forms.Button btnEntrar;
-        private System.Windows.Forms.LinkLabel lnkSenha;
-        private System.Windows.Forms.Label lblUsuario;
-        private System.Windows.Forms.TextBox txtUsuario;
-        private System.Windows.Forms.Label lblSecLogin;
-        private System.Windows.Forms.Label lblSenha;
-        private System.Windows.Forms.TextBox txtSenha;
+        private GroupBox groupBox1;
+        private PictureBox pictureBox1;
+        private Button button3;
+        private Button button2;
+        private Button button1;
+        private OpenFileDialog openFileDialog1;
+        private GroupBox groupBox2;
+        private LinkLabel linkLabel4;
+        private LinkLabel linkLabel3;
+        private LinkLabel linkLabel2;
+        private LinkLabel linkLabel1;
+        private Panel panel1;
+        private Panel panel2;
+        private Label label1;
+        private Label label2;
+        private PictureBox pictureBox2;
+        private RadioButton radioButton8;
+        private RadioButton radioButton7;
+        private RadioButton radioButton6;
+        private RadioButton radioButton5;
+        private RadioButton radioButton4;
+        private RadioButton radioButton3;
+        private RadioButton radioButton2;
+        private RadioButton radioButton1;
     }
 }
-
