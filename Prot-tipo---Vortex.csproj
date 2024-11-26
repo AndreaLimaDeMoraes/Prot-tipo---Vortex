@@ -1,0 +1,199 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{B285143C-CA22-4913-A674-29FC0CA7CBF9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>WindowsApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Prot_tipo___Vortex</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".git\config" />
+    <None Include=".git\description" />
+    <None Include=".git\HEAD" />
+    <None Include=".git\hooks\applypatch-msg.sample" />
+    <None Include=".git\hooks\commit-msg.sample" />
+    <None Include=".git\hooks\fsmonitor-watchman.sample" />
+    <None Include=".git\hooks\post-update.sample" />
+    <None Include=".git\hooks\pre-applypatch.sample" />
+    <None Include=".git\hooks\pre-commit.sample" />
+    <None Include=".git\hooks\pre-merge-commit.sample" />
+    <None Include=".git\hooks\pre-push.sample" />
+    <None Include=".git\hooks\pre-rebase.sample" />
+    <None Include=".git\hooks\pre-receive.sample" />
+    <None Include=".git\hooks\prepare-commit-msg.sample" />
+    <None Include=".git\hooks\push-to-checkout.sample" />
+    <None Include=".git\hooks\sendemail-validate.sample" />
+    <None Include=".git\hooks\update.sample" />
+    <None Include=".git\index" />
+    <None Include=".git\info\exclude" />
+    <None Include=".git\logs\HEAD" />
+    <None Include=".git\logs\refs\heads\main" />
+    <None Include=".git\logs\refs\remotes\origin\HEAD" />
+    <None Include=".git\objects\pack\pack-70fe6a2b67f1b4f653f446e9377d5ce08f954095.idx" />
+    <None Include=".git\objects\pack\pack-70fe6a2b67f1b4f653f446e9377d5ce08f954095.pack" />
+    <None Include=".git\objects\pack\pack-70fe6a2b67f1b4f653f446e9377d5ce08f954095.rev" />
+    <None Include=".git\packed-refs" />
+    <None Include=".git\refs\heads\main" />
+    <None Include=".git\refs\remotes\origin\HEAD" />
+    <None Include=".vs\Prot-tipo---Vortex.csproj.dtbcache.json" />
+    <None Include=".vs\Prot-tipo---Vortex\FileContentIndex\1c57d888-e613-4e41-8930-9935cb8143b0.vsidx" />
+    <None Include=".vs\Prot-tipo---Vortex\FileContentIndex\534e8695-2492-48cf-a14a-a8304178ba98.vsidx" />
+    <None Include=".vs\Prot-tipo---Vortex\FileContentIndex\63c1d087-fbf4-47c2-89a3-7be439ba7d97.vsidx" />
+    <None Include=".vs\Prot-tipo---Vortex\FileContentIndex\bc7c95da-d4ee-46c9-a205-e3399f98341a.vsidx" />
+    <None Include=".vs\Prot-tipo---Vortex\FileContentIndex\c5553171-c511-43cc-be8e-b78000629b12.vsidx" />
+    <None Include=".vs\Prot-tipo---Vortex\v16\.suo" />
+    <None Include=".vs\Prot-tipo---Vortex\v17\.suo" />
+    <None Include=".vs\Prot-tipo---Vortex\v17\.wsuo" />
+    <None Include=".vs\Prot-tipo---Vortex\v17\DocumentLayout.backup.json" />
+    <None Include=".vs\Prot-tipo---Vortex\v17\DocumentLayout.json" />
+    <None Include=".vs\Prot-tipo---Vortex\v17\ResourceExplorer\settings.json" />
+    <None Include=".vs\slnx.sqlite" />
+    <None Include=".vs\VSWorkspaceState.json" />
+    <None Include="app.config" />
+    <None Include="Prototipo - Vortex\.vs\Prototipo - Vortex.csproj.dtbcache.json" />
+    <None Include="Prototipo - Vortex\.vs\Prototipo - Vortex\FileContentIndex\0b47b2fb-bf95-4803-95fd-4e896bfa31c1.vsidx" />
+    <None Include="Prototipo - Vortex\.vs\Prototipo - Vortex\v17\.suo" />
+    <None Include="Prototipo - Vortex\.vs\Prototipo - Vortex\v17\.wsuo" />
+    <None Include="Prototipo - Vortex\.vs\Prototipo - Vortex\v17\DocumentLayout.backup.json" />
+    <None Include="Prototipo - Vortex\.vs\Prototipo - Vortex\v17\DocumentLayout.json" />
+    <None Include="Prototipo - Vortex\.vs\slnx.sqlite" />
+    <None Include="Prototipo - Vortex\.vs\VSWorkspaceState.json" />
+    <None Include="Prototipo - Vortex\App.config" />
+    <None Include="Prototipo - Vortex\bin\Debug\Prototipo - Vortex.exe.config" />
+    <None Include="Prototipo - Vortex\obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="Prototipo - Vortex\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Prototipo - Vortex\obj\Debug\Prototipo - Vortex.csproj.AssemblyReference.cache" />
+    <None Include="Prototipo - Vortex\obj\Debug\Prototipo - Vortex.csproj.CoreCompileInputs.cache" />
+    <None Include="Prototipo - Vortex\obj\Debug\Prototipo - Vortex.csproj.GenerateResource.cache" />
+    <None Include="Prototipo - Vortex\obj\Release\Prototipo - Vortex.csproj.AssemblyReference.cache" />
+    <None Include="Prototipo - Vortex\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Prototipo - Vortex\obj\x86\Debug\Prototipo - Vortex.csproj.AssemblyReference.cache" />
+    <None Include="Prototipo - Vortex\Properties\Settings.settings" />
+    <None Include="Prototipo - Vortex\Views\imagens\Heroes of Time - Ocarina do Tempo 3D - PatchMOD.rar" />
+    <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".git\ms-persist.xml" />
+    <Content Include="Prototipo - Vortex\bin\Debug\Prototipo - Vortex.exe" />
+    <Content Include="Prototipo - Vortex\bin\Debug\Prototipo - Vortex.pdb" />
+    <Content Include="Prototipo - Vortex\dumpVortexSecretaryDB\db_projeto_alunos.sql" />
+    <Content Include="Prototipo - Vortex\dumpVortexSecretaryDB\db_projeto_atendimentos.sql" />
+    <Content Include="Prototipo - Vortex\dumpVortexSecretaryDB\db_projeto_atendimentospedidos.sql" />
+    <Content Include="Prototipo - Vortex\dumpVortexSecretaryDB\db_projeto_documentos.sql" />
+    <Content Include="Prototipo - Vortex\dumpVortexSecretaryDB\db_projeto_pedidos.sql" />
+    <Content Include="Prototipo - Vortex\dumpVortexSecretaryDB\db_projeto_secretaria.sql" />
+    <Content Include="Prototipo - Vortex\obj\Debug\Prototipo - Vortex.csproj.FileListAbsolute.txt" />
+    <Content Include="Prototipo - Vortex\obj\Debug\Prototipo - Vortex.exe" />
+    <Content Include="Prototipo - Vortex\obj\Debug\Prototipo - Vortex.pdb" />
+    <Content Include="Prototipo - Vortex\Views\imagens\fatec_ra_metropolitana_sp_guarulhos_br.png" />
+    <Content Include="Prototipo - Vortex\Views\imagens\fatec_ra_metropolitana_sp_guarulhos_cor.ico" />
+    <Content Include="Prototipo - Vortex\Views\imagens\fatec_ra_metropolitana_sp_guarulhos_cor.png" />
+    <Content Include="Prototipo - Vortex\Views\imagens\fatec_ra_metropolitana_sp_guarulhos_pb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\Resources.Designer.cs" />
+    <Compile Include="Prototipo - Vortex\Models\Aluno.cs" />
+    <Compile Include="Prototipo - Vortex\Models\Atendimento.cs" />
+    <Compile Include="Prototipo - Vortex\Models\AtendimentoPedido.cs" />
+    <Compile Include="Prototipo - Vortex\Models\Documento.cs" />
+    <Compile Include="Prototipo - Vortex\Models\Pedido.cs" />
+    <Compile Include="Prototipo - Vortex\Models\Secretaria.cs" />
+    <Compile Include="Prototipo - Vortex\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="Prototipo - Vortex\obj\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="Prototipo - Vortex\Program.cs" />
+    <Compile Include="Prototipo - Vortex\Properties\AssemblyInfo.cs" />
+    <Compile Include="Prototipo - Vortex\Properties\Resources.Designer.cs" />
+    <Compile Include="Prototipo - Vortex\Properties\Settings.Designer.cs" />
+    <Compile Include="Prototipo - Vortex\Views\telaGerenciamento\PagGerenciamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prototipo - Vortex\Views\telaGerenciamento\PagGerenciamento.Designer.cs">
+      <DependentUpon>PagGerenciamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prototipo - Vortex\Views\telaHistorico\PagHistorico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prototipo - Vortex\Views\telaHistorico\PagHistorico.Designer.cs">
+      <DependentUpon>PagHistorico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prototipo - Vortex\Views\telaInicial\PagInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prototipo - Vortex\Views\telaInicial\PagInicial.Designer.cs">
+      <DependentUpon>PagInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prototipo - Vortex\Views\telaLogin\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prototipo - Vortex\Views\telaLogin\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx" />
+    <EmbeddedResource Include="Prototipo - Vortex\obj\Debug\Prototipo___Vortex.Login.resources" />
+    <EmbeddedResource Include="Prototipo - Vortex\obj\Debug\Prototipo___Vortex.PagInic.resources" />
+    <EmbeddedResource Include="Prototipo - Vortex\obj\Debug\Prototipo___Vortex.Properties.Resources.resources" />
+    <EmbeddedResource Include="Prototipo - Vortex\Properties\Resources.resx" />
+    <EmbeddedResource Include="Prototipo - Vortex\Views\telaGerenciamento\PagGerenciamento.resx">
+      <DependentUpon>PagGerenciamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prototipo - Vortex\Views\telaHistorico\PagHistorico.resx">
+      <DependentUpon>PagHistorico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prototipo - Vortex\Views\telaInicial\PagInicial.resx">
+      <DependentUpon>PagInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prototipo - Vortex\Views\telaLogin\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".git\objects\info\" />
+    <Folder Include=".git\refs\tags\" />
+    <Folder Include="Prototipo - Vortex\bin\Release\" />
+    <Folder Include="Prototipo - Vortex\obj\Debug\TempPE\" />
+    <Folder Include="Prototipo - Vortex\obj\x86\Debug\TempPE\" />
+    <Folder Include="Prototipo - Vortex\Presenters\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

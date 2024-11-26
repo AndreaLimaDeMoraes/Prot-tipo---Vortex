@@ -9,3 +9,6 @@ D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\obj\Debug\Prototi
 D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\obj\Debug\Prototipo - Vortex.pdb
 D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\obj\Debug\Prototipo___Vortex.Login.resources
 D:\Users\ARQUIVOS\Andrea\Prototipo - Vortex\Prototipo - Vortex\obj\Debug\Prototipo___Vortex.PagInic.resources
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\Prototipo - Vortex\obj\Debug\Prototipo - Vortex.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\Prototipo - Vortex\obj\Debug\Prototipo - Vortex.exe
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\Prototipo - Vortex\obj\Debug\Prototipo - Vortex.pdb

@@ -1,10 +1,12 @@
-﻿using System;
+﻿using Prototipo___Vortex;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Prototipo___Vortex;
 
-namespace Prototipo___Vortex
+namespace Prototipo_Vortex
 {
     internal static class Program
     {

@@ -1,0 +1,27 @@
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\obj\x86\Debug\Prot-tipo---Vortex.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\obj\x86\Debug\Prot_tipo___Vortex.Prototipo___Vortex.Properties.Resources.resources
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\obj\x86\Debug\Prototipo___Vortex.PagGerenciamento.resources
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\obj\x86\Debug\Prototipo___Vortex.PagInicial.resources
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\obj\x86\Debug\Prot-tipo---Vortex.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\obj\x86\Debug\Prot-tipo---Vortex.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\bin\Debug\WindowsApplication.exe.config
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\bin\Debug\WindowsApplication.exe
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\bin\Debug\WindowsApplication.pdb
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\obj\x86\Debug\WindowsApplication.exe
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\obj\x86\Debug\Prototipo___Vortex.PagHistorico.resources
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\obj\x86\Debug\Prot_tipo___Vortex.Properties.Resources.resources
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\obj\x86\Debug\Prot-tipo---Vortex.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\obj\x86\Debug\Prot_tipo___Vortex.Properties.Resources.resources
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\obj\x86\Debug\Prot_tipo___Vortex.Prototipo___Vortex.Properties.Resources.resources
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\obj\x86\Debug\Prototipo___Vortex.PagGerenciamento.resources
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\obj\x86\Debug\Prototipo___Vortex.PagHistorico.resources
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\obj\x86\Debug\Prototipo___Vortex.PagInicial.resources
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\obj\x86\Debug\Prot-tipo---Vortex.csproj.GenerateResource.cache
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\obj\x86\Debug\Prot-tipo---Vortex.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\obj\x86\Debug\WindowsApplication.exe
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\obj\x86\Debug\WindowsApplication.pdb
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\bin\Debug\WindowsApplication.exe.config
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\bin\Debug\WindowsApplication.exe
+C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\bin\Debug\WindowsApplication.pdb
+C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\obj\x86\Debug\Prototipo___Vortex.Login.resources
