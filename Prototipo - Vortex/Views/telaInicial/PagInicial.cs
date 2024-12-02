@@ -162,5 +162,30 @@ namespace Prototipo___Vortex
             pagGerenciamento.Show();
             this.Close();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblAndamento_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

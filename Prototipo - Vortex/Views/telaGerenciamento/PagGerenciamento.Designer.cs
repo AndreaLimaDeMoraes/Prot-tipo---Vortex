@@ -101,35 +101,43 @@ namespace Prototipo___Vortex
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold);
+            this.label1.Font = new System.Drawing.Font("Montserrat", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(234, -2);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(178, 28);
+            this.label1.Size = new System.Drawing.Size(197, 27);
             this.label1.TabIndex = 3;
             this.label1.Text = "Quadro de Avisos";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // button2
             // 
+            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(92)))), ((int)(((byte)(109)))));
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button2.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.ForeColor = System.Drawing.Color.White;
             this.button2.Location = new System.Drawing.Point(393, 157);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(187, 63);
             this.button2.TabIndex = 2;
             this.button2.Text = "Excluir";
-            this.button2.UseVisualStyleBackColor = true;
+            this.button2.UseVisualStyleBackColor = false;
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(92)))), ((int)(((byte)(109)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button1.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.Location = new System.Drawing.Point(393, 45);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(187, 63);
             this.button1.TabIndex = 1;
             this.button1.Text = "Editar";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.pictureBox1.BackColor = System.Drawing.Color.PeachPuff;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.pictureBox1.Location = new System.Drawing.Point(41, 45);
             this.pictureBox1.Name = "pictureBox1";
@@ -172,9 +180,10 @@ namespace Prototipo___Vortex
             // 
             this.radioButton7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.radioButton7.AutoSize = true;
+            this.radioButton7.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton7.Location = new System.Drawing.Point(174, 3);
             this.radioButton7.Name = "radioButton7";
-            this.radioButton7.Size = new System.Drawing.Size(69, 25);
+            this.radioButton7.Size = new System.Drawing.Size(72, 26);
             this.radioButton7.TabIndex = 7;
             this.radioButton7.TabStop = true;
             this.radioButton7.Text = "Ativo";
@@ -185,9 +194,10 @@ namespace Prototipo___Vortex
             this.radioButton8.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.radioButton8.AutoSize = true;
-            this.radioButton8.Location = new System.Drawing.Point(351, 3);
+            this.radioButton8.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioButton8.Location = new System.Drawing.Point(342, 3);
             this.radioButton8.Name = "radioButton8";
-            this.radioButton8.Size = new System.Drawing.Size(114, 25);
+            this.radioButton8.Size = new System.Drawing.Size(123, 26);
             this.radioButton8.TabIndex = 8;
             this.radioButton8.TabStop = true;
             this.radioButton8.Text = "Desativado";
@@ -198,9 +208,11 @@ namespace Prototipo___Vortex
             this.linkLabel4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.linkLabel4.AutoSize = true;
+            this.linkLabel4.Font = new System.Drawing.Font("Montserrat", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel4.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(178)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.linkLabel4.Location = new System.Drawing.Point(3, 5);
             this.linkLabel4.Name = "linkLabel4";
-            this.linkLabel4.Size = new System.Drawing.Size(62, 21);
+            this.linkLabel4.Size = new System.Drawing.Size(65, 22);
             this.linkLabel4.TabIndex = 0;
             this.linkLabel4.TabStop = true;
             this.linkLabel4.Text = "Form1 ";
@@ -219,9 +231,10 @@ namespace Prototipo___Vortex
             // 
             this.radioButton5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.radioButton5.AutoSize = true;
+            this.radioButton5.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton5.Location = new System.Drawing.Point(174, 3);
             this.radioButton5.Name = "radioButton5";
-            this.radioButton5.Size = new System.Drawing.Size(69, 25);
+            this.radioButton5.Size = new System.Drawing.Size(72, 26);
             this.radioButton5.TabIndex = 7;
             this.radioButton5.TabStop = true;
             this.radioButton5.Text = "Ativo";
@@ -232,9 +245,10 @@ namespace Prototipo___Vortex
             this.radioButton6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.radioButton6.AutoSize = true;
-            this.radioButton6.Location = new System.Drawing.Point(351, 3);
+            this.radioButton6.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioButton6.Location = new System.Drawing.Point(342, 3);
             this.radioButton6.Name = "radioButton6";
-            this.radioButton6.Size = new System.Drawing.Size(114, 25);
+            this.radioButton6.Size = new System.Drawing.Size(123, 26);
             this.radioButton6.TabIndex = 8;
             this.radioButton6.TabStop = true;
             this.radioButton6.Text = "Desativado";
@@ -245,9 +259,11 @@ namespace Prototipo___Vortex
             this.linkLabel3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.linkLabel3.AutoSize = true;
+            this.linkLabel3.Font = new System.Drawing.Font("Montserrat", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel3.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(178)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.linkLabel3.Location = new System.Drawing.Point(3, 5);
             this.linkLabel3.Name = "linkLabel3";
-            this.linkLabel3.Size = new System.Drawing.Size(62, 21);
+            this.linkLabel3.Size = new System.Drawing.Size(65, 22);
             this.linkLabel3.TabIndex = 0;
             this.linkLabel3.TabStop = true;
             this.linkLabel3.Text = "Form1 ";
@@ -266,9 +282,10 @@ namespace Prototipo___Vortex
             // 
             this.radioButton1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.radioButton1.AutoSize = true;
+            this.radioButton1.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton1.Location = new System.Drawing.Point(174, 3);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(69, 25);
+            this.radioButton1.Size = new System.Drawing.Size(72, 26);
             this.radioButton1.TabIndex = 7;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Ativo";
@@ -279,9 +296,10 @@ namespace Prototipo___Vortex
             this.radioButton2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(351, 3);
+            this.radioButton2.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioButton2.Location = new System.Drawing.Point(342, 3);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(114, 25);
+            this.radioButton2.Size = new System.Drawing.Size(123, 26);
             this.radioButton2.TabIndex = 8;
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Desativado";
@@ -292,9 +310,11 @@ namespace Prototipo___Vortex
             this.linkLabel2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.linkLabel2.AutoSize = true;
+            this.linkLabel2.Font = new System.Drawing.Font("Montserrat", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel2.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(178)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.linkLabel2.Location = new System.Drawing.Point(3, 5);
             this.linkLabel2.Name = "linkLabel2";
-            this.linkLabel2.Size = new System.Drawing.Size(62, 21);
+            this.linkLabel2.Size = new System.Drawing.Size(65, 22);
             this.linkLabel2.TabIndex = 0;
             this.linkLabel2.TabStop = true;
             this.linkLabel2.Text = "Form1 ";
@@ -313,9 +333,10 @@ namespace Prototipo___Vortex
             // 
             this.radioButton3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.radioButton3.AutoSize = true;
+            this.radioButton3.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioButton3.Location = new System.Drawing.Point(174, 3);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(69, 25);
+            this.radioButton3.Size = new System.Drawing.Size(72, 26);
             this.radioButton3.TabIndex = 7;
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "Ativo";
@@ -326,9 +347,10 @@ namespace Prototipo___Vortex
             this.radioButton4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.radioButton4.AutoSize = true;
-            this.radioButton4.Location = new System.Drawing.Point(351, 3);
+            this.radioButton4.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radioButton4.Location = new System.Drawing.Point(342, 3);
             this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(114, 25);
+            this.radioButton4.Size = new System.Drawing.Size(123, 26);
             this.radioButton4.TabIndex = 8;
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "Desativado";
@@ -339,9 +361,11 @@ namespace Prototipo___Vortex
             this.linkLabel1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.linkLabel1.AutoSize = true;
+            this.linkLabel1.Font = new System.Drawing.Font("Montserrat", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel1.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(178)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.linkLabel1.Location = new System.Drawing.Point(3, 5);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(62, 21);
+            this.linkLabel1.Size = new System.Drawing.Size(65, 22);
             this.linkLabel1.TabIndex = 0;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "Form1 ";
@@ -349,13 +373,14 @@ namespace Prototipo___Vortex
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold);
+            this.label2.Font = new System.Drawing.Font("Montserrat", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.label2.Location = new System.Drawing.Point(252, 0);
+            this.label2.Location = new System.Drawing.Point(231, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(239, 28);
+            this.label2.Size = new System.Drawing.Size(271, 27);
             this.label2.TabIndex = 4;
             this.label2.Text = "Gerenciamento de Links";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // panel2
             // 
@@ -371,7 +396,7 @@ namespace Prototipo___Vortex
             // 
             this.panelMENU.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.panelMENU.BackColor = System.Drawing.Color.FromArgb(178, 0, 0);
+            this.panelMENU.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(178)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.panelMENU.Controls.Add(this.pagInicial_link);
             this.panelMENU.Controls.Add(this.pagHistorico_link);
             this.panelMENU.Controls.Add(this.pagGerenciamento_link);
@@ -386,12 +411,12 @@ namespace Prototipo___Vortex
             this.pagInicial_link.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pagInicial_link.AutoSize = true;
-            this.pagInicial_link.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.pagInicial_link.Font = new System.Drawing.Font("Montserrat", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.pagInicial_link.LinkBehavior = System.Windows.Forms.LinkBehavior.HoverUnderline;
             this.pagInicial_link.LinkColor = System.Drawing.Color.LightGray;
-            this.pagInicial_link.Location = new System.Drawing.Point(878, 19);
+            this.pagInicial_link.Location = new System.Drawing.Point(894, 19);
             this.pagInicial_link.Name = "pagInicial_link";
-            this.pagInicial_link.Size = new System.Drawing.Size(122, 18);
+            this.pagInicial_link.Size = new System.Drawing.Size(130, 21);
             this.pagInicial_link.TabIndex = 20;
             this.pagInicial_link.TabStop = true;
             this.pagInicial_link.Text = "Requerimentos";
@@ -402,12 +427,12 @@ namespace Prototipo___Vortex
             this.pagHistorico_link.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pagHistorico_link.AutoSize = true;
-            this.pagHistorico_link.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.pagHistorico_link.Font = new System.Drawing.Font("Montserrat", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.pagHistorico_link.LinkBehavior = System.Windows.Forms.LinkBehavior.HoverUnderline;
             this.pagHistorico_link.LinkColor = System.Drawing.Color.LightGray;
-            this.pagHistorico_link.Location = new System.Drawing.Point(1022, 19);
+            this.pagHistorico_link.Location = new System.Drawing.Point(1039, 19);
             this.pagHistorico_link.Name = "pagHistorico_link";
-            this.pagHistorico_link.Size = new System.Drawing.Size(77, 18);
+            this.pagHistorico_link.Size = new System.Drawing.Size(82, 21);
             this.pagHistorico_link.TabIndex = 19;
             this.pagHistorico_link.TabStop = true;
             this.pagHistorico_link.Text = "Histórico";
@@ -418,14 +443,14 @@ namespace Prototipo___Vortex
             this.pagGerenciamento_link.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pagGerenciamento_link.AutoSize = true;
-            this.pagGerenciamento_link.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.25F, System.Drawing.FontStyle.Bold);
+            this.pagGerenciamento_link.Font = new System.Drawing.Font("Montserrat", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.pagGerenciamento_link.ForeColor = System.Drawing.Color.White;
             this.pagGerenciamento_link.LinkBehavior = System.Windows.Forms.LinkBehavior.HoverUnderline;
             this.pagGerenciamento_link.LinkColor = System.Drawing.Color.White;
             this.pagGerenciamento_link.LinkVisited = true;
-            this.pagGerenciamento_link.Location = new System.Drawing.Point(1122, 16);
+            this.pagGerenciamento_link.Location = new System.Drawing.Point(1132, 18);
             this.pagGerenciamento_link.Name = "pagGerenciamento_link";
-            this.pagGerenciamento_link.Size = new System.Drawing.Size(197, 22);
+            this.pagGerenciamento_link.Size = new System.Drawing.Size(186, 22);
             this.pagGerenciamento_link.TabIndex = 18;
             this.pagGerenciamento_link.TabStop = true;
             this.pagGerenciamento_link.Text = "Avisos e Formulários";

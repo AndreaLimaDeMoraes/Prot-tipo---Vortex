@@ -24,5 +24,15 @@ namespace Prototipo___Vortex
             PagInicial.Show();
             this.Hide();
         }
+
+        private void lblSecLogin_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

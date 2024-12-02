@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mathe\\Documents\\projetos\\Prot-tipo---Vortex\\",
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Prot-tipo---Vortex\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B285143C-CA22-4913-A674-29FC0CA7CBF9}|Prot-tipo---Vortex.csproj|c:\\users\\mathe\\documents\\projetos\\prot-tipo---vortex\\prototipo - vortex\\obj\\release\\.netframework,version=v4.7.2.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B285143C-CA22-4913-A674-29FC0CA7CBF9}|Prot-tipo---Vortex.csproj|solutionrelative:prototipo - vortex\\obj\\release\\.netframework,version=v4.7.2.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B285143C-CA22-4913-A674-29FC0CA7CBF9}|Prot-tipo---Vortex.csproj|c:\\xampp\\htdocs\\prot-tipo---vortex\\prototipo - vortex\\views\\telalogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B285143C-CA22-4913-A674-29FC0CA7CBF9}|Prot-tipo---Vortex.csproj|solutionrelative:prototipo - vortex\\views\\telalogin\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B285143C-CA22-4913-A674-29FC0CA7CBF9}|Prot-tipo---Vortex.csproj|c:\\users\\mathe\\documents\\projetos\\prot-tipo---vortex\\prototipo - vortex\\obj\\debug\\.netframework,version=v4.7.2.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B285143C-CA22-4913-A674-29FC0CA7CBF9}|Prot-tipo---Vortex.csproj|solutionrelative:prototipo - vortex\\obj\\debug\\.netframework,version=v4.7.2.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B285143C-CA22-4913-A674-29FC0CA7CBF9}|Prot-tipo---Vortex.csproj|c:\\xampp\\htdocs\\prot-tipo---vortex\\prototipo - vortex\\views\\telainicial\\paginicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B285143C-CA22-4913-A674-29FC0CA7CBF9}|Prot-tipo---Vortex.csproj|solutionrelative:prototipo - vortex\\views\\telainicial\\paginicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285143C-CA22-4913-A674-29FC0CA7CBF9}|Prot-tipo---Vortex.csproj|c:\\xampp\\htdocs\\prot-tipo---vortex\\prototipo - vortex\\views\\telahistorico\\paghistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B285143C-CA22-4913-A674-29FC0CA7CBF9}|Prot-tipo---Vortex.csproj|solutionrelative:prototipo - vortex\\views\\telahistorico\\paghistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285143C-CA22-4913-A674-29FC0CA7CBF9}|Prot-tipo---Vortex.csproj|c:\\xampp\\htdocs\\prot-tipo---vortex\\prototipo - vortex\\views\\telagerenciamento\\paggerenciamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B285143C-CA22-4913-A674-29FC0CA7CBF9}|Prot-tipo---Vortex.csproj|solutionrelative:prototipo - vortex\\views\\telagerenciamento\\paggerenciamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -31,28 +35,72 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\Prot-tipo---Vortex\\Prototipo - Vortex\\obj\\Release\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "Prototipo - Vortex\\obj\\Release\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\Prot-tipo---Vortex\\Prototipo - Vortex\\obj\\Release\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "RelativeToolTip": "Prototipo - Vortex\\obj\\Release\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Prot-tipo---Vortex\\Prototipo - Vortex\\Views\\telaLogin\\Login.cs",
+              "RelativeDocumentMoniker": "Prototipo - Vortex\\Views\\telaLogin\\Login.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Prot-tipo---Vortex\\Prototipo - Vortex\\Views\\telaLogin\\Login.cs [Design]",
+              "RelativeToolTip": "Prototipo - Vortex\\Views\\telaLogin\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:15:50.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T23:03:11.322Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": ".NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\projetos\\Prot-tipo---Vortex\\Prototipo - Vortex\\obj\\Debug\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "Prototipo - Vortex\\obj\\Debug\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\mathe\\Documents\\projetos\\Prot-tipo---Vortex\\Prototipo - Vortex\\obj\\Debug\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "RelativeToolTip": "Prototipo - Vortex\\obj\\Debug\\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Title": "PagInicial.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Prot-tipo---Vortex\\Prototipo - Vortex\\Views\\telaInicial\\PagInicial.cs",
+              "RelativeDocumentMoniker": "Prototipo - Vortex\\Views\\telaInicial\\PagInicial.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Prot-tipo---Vortex\\Prototipo - Vortex\\Views\\telaInicial\\PagInicial.cs [Design]",
+              "RelativeToolTip": "Prototipo - Vortex\\Views\\telaInicial\\PagInicial.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T06:14:14.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T23:03:03.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagHistorico.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Prot-tipo---Vortex\\Prototipo - Vortex\\Views\\telaHistorico\\PagHistorico.cs",
+              "RelativeDocumentMoniker": "Prototipo - Vortex\\Views\\telaHistorico\\PagHistorico.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Prot-tipo---Vortex\\Prototipo - Vortex\\Views\\telaHistorico\\PagHistorico.cs [Design]",
+              "RelativeToolTip": "Prototipo - Vortex\\Views\\telaHistorico\\PagHistorico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:02:19.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagGerenciamento.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Prot-tipo---Vortex\\Prototipo - Vortex\\Views\\telaGerenciamento\\PagGerenciamento.cs",
+              "RelativeDocumentMoniker": "Prototipo - Vortex\\Views\\telaGerenciamento\\PagGerenciamento.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Prot-tipo---Vortex\\Prototipo - Vortex\\Views\\telaGerenciamento\\PagGerenciamento.cs [Design]",
+              "RelativeToolTip": "Prototipo - Vortex\\Views\\telaGerenciamento\\PagGerenciamento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:52:38.163Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

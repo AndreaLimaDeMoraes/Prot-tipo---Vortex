@@ -25,3 +25,17 @@ C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\bin\Debug\
 C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\bin\Debug\WindowsApplication.exe
 C:\Users\aluno_lab4\Documents\Matheus Junior - ADS\Prot-tipo---Vortex\bin\Debug\WindowsApplication.pdb
 C:\Users\mathe\Documents\projetos\Prot-tipo---Vortex\obj\x86\Debug\Prototipo___Vortex.Login.resources
+C:\xampp\htdocs\Prot-tipo---Vortex\bin\Debug\WindowsApplication.exe.config
+C:\xampp\htdocs\Prot-tipo---Vortex\bin\Debug\WindowsApplication.exe
+C:\xampp\htdocs\Prot-tipo---Vortex\bin\Debug\WindowsApplication.pdb
+C:\xampp\htdocs\Prot-tipo---Vortex\obj\x86\Debug\Prot-tipo---Vortex.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Prot-tipo---Vortex\obj\x86\Debug\Prot_tipo___Vortex.Properties.Resources.resources
+C:\xampp\htdocs\Prot-tipo---Vortex\obj\x86\Debug\Prot_tipo___Vortex.Prototipo___Vortex.Properties.Resources.resources
+C:\xampp\htdocs\Prot-tipo---Vortex\obj\x86\Debug\Prototipo___Vortex.PagGerenciamento.resources
+C:\xampp\htdocs\Prot-tipo---Vortex\obj\x86\Debug\Prototipo___Vortex.PagHistorico.resources
+C:\xampp\htdocs\Prot-tipo---Vortex\obj\x86\Debug\Prototipo___Vortex.PagInicial.resources
+C:\xampp\htdocs\Prot-tipo---Vortex\obj\x86\Debug\Prototipo___Vortex.Login.resources
+C:\xampp\htdocs\Prot-tipo---Vortex\obj\x86\Debug\Prot-tipo---Vortex.csproj.GenerateResource.cache
+C:\xampp\htdocs\Prot-tipo---Vortex\obj\x86\Debug\Prot-tipo---Vortex.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Prot-tipo---Vortex\obj\x86\Debug\WindowsApplication.exe
+C:\xampp\htdocs\Prot-tipo---Vortex\obj\x86\Debug\WindowsApplication.pdb
